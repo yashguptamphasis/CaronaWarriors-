@@ -1,4 +1,8 @@
 # CaronaWarriors-
+For Corona workers..A platform to help people willing to help others in the pandamic.
+
+Made using Spring Boot, H2 DataBase, Basic JSP frontEnd.
+
 
 To run the application use : http://localhost:8081/
 
