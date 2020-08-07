@@ -10,6 +10,7 @@ public class BaseController {
 	public String home()
 	{
 		System.out.println("Reached");
+		System.out.println("Reached");
 		return "/views/home.jsp";
 	}
 	
